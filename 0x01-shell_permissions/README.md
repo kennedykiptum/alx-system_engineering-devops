@@ -1,1 +1,1 @@
-all permission to other
+sets mode to
