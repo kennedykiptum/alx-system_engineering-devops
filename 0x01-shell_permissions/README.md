@@ -1,1 +1,1 @@
-sets mode to
+setting mode of hello to olleh
