@@ -1,1 +1,1 @@
-setting mode of hello to olleh
+adds execute permission to all subdirectories
