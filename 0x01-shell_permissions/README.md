@@ -1,1 +1,1 @@
-Write a script that changes the owner of the file hello to the user bett
+ a script that creates an empty file called hello
