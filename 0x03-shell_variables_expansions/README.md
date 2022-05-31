@@ -1,1 +1,1 @@
-adding /action to be the last directory
+script that counts the number of directories in the PATH.
